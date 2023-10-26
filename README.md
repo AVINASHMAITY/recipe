@@ -9,7 +9,7 @@ https://avinashmaity.github.io/recipe/
 
 Search Functionality:- A search bar that allows you to enter keywords, ingredients, cuisine types, or dietary restrictions to find relevant recipes.
 
-Filters and Sorting:- The ability to filter and sort recipes by criteria such as cooking time, difficulty level, dietary preferences (e.g., vegetarian, vegan, gluten-free), and more.
+Save Recipes: Users can save recipes they like to a personal collection or folder for easy access in the future.
 
 Recipe Suggestions:- Recommendations for recipes based on your previous searches and preferences.
 
